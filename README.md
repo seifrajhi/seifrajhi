@@ -2,7 +2,7 @@
 
 👨‍💻 I'm working as Sr.DevOps Engineer at Storm.
 
-🔭 I've interest on Dev{Sec}Ops & Cloud Native projects.
+🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
 
 📫 Reach out on:
 
