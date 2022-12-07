@@ -1,11 +1,13 @@
-Hi there 👋
+## Hi there 👋
+
 👨‍💻 I'm working as Sr.DevOps Engineer at Storm.
 
-🔭 I've interest on Dev{Sec}Ops & Cloud-Native guru.
+🔭 I've interest on Dev{Sec}Ops & Cloud Native projects.
 
 📫 Reach out on:
 
-  Twitter : @RajhiSaifeddine
-  Linkedin : https://www.linkedin.com/in/rajhi-saif/ 
+  - Twitter : @RajhiSaifeddine
+  
+  - Linkedin : https://www.linkedin.com/in/rajhi-saif/ 
 
 
