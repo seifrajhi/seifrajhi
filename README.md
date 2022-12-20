@@ -4,6 +4,8 @@
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
 
+👨‍ I build and break stuff, preferably in the cloud
+
 📫 Reach out on:
 
   - Twitter : @RajhiSaifeddine
