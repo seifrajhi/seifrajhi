@@ -8,8 +8,12 @@
 
 📫 Reach out on:
 
-  - Twitter : @RajhiSaifeddine
+  - Twitter : https://twitter.com/RajhiSaifeddine
   
-  - Linkedin : https://www.linkedin.com/in/rajhi-saif/ 
+  - Linkedin : https://www.linkedin.com/in/rajhi-saif/
+  
+  - Reddit : https://www.reddit.com/user/Financial-Aspect-143/
+  
+  - Medium: https://medium.com/@seifeddinerajhi
 
 
