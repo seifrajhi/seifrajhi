@@ -17,3 +17,6 @@
   - Medium: https://medium.com/@seifeddinerajhi
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=seifrajhi)
+
+
