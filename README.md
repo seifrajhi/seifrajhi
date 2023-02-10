@@ -4,7 +4,9 @@
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
 
-👨‍ I build and break stuff, preferably in the cloud
+👨‍ I build and break stuff, preferably in the cloud. 
+
+<p align="center">
 
 📫 Reach out on:
 
@@ -16,7 +18,10 @@
   
   - Medium: https://medium.com/@seifeddinerajhi
 
+# Show off 😇
 
+<p align="center">
+  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=seifrajhi)
 
 
