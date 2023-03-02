@@ -25,6 +25,8 @@
   - Reddit : https://www.reddit.com/user/Financial-Aspect-143/
   
   - Medium: https://medium.com/@seifeddinerajhi
+  
+  - OSS insight: https://ossinsight.io/analyze/seifrajhi 
 
 # Show off 😇
 
