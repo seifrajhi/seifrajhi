@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/26981510/222764134-ca7c4c44-2f57-4dfe-ba63-cf80464dd66a.png)
 
 
-👨‍💻 I'm working as Sr.SRE Engineer at Storm.
+👨‍💻 I'm working as Sr.SRE Engineer at JET.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
 
