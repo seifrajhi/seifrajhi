@@ -35,7 +35,7 @@
 
 <p align="center">
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=seifrajhi)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seifrajhi)
 
 ### 🧰 DevOps Tools
 <p align="left">
