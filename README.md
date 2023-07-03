@@ -1,6 +1,11 @@
-## Hi there 👋
+## 👋 Hey Profile Visitor 😍
 
-![image](https://user-images.githubusercontent.com/26981510/222764134-ca7c4c44-2f57-4dfe-ba63-cf80464dd66a.png)
+
+#### Minion at Work!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="30">
+
+
+<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="300">
+
 
 
 👨‍💻 I'm working as Sr.SRE Engineer at JET.
@@ -17,6 +22,7 @@
 
 ⚡ I love to play with new cli tools and technologies.
 
+
 <p align="center">
 
 📫 Reach out on:
@@ -29,7 +35,11 @@
   
   - Medium: https://medium.com/@seifeddinerajhi
   
-  - OSS insight: https://ossinsight.io/analyze/seifrajhi 
+  - OSS insight: https://ossinsight.io/analyze/seifrajhi
+
+
+![image](https://user-images.githubusercontent.com/26981510/222764134-ca7c4c44-2f57-4dfe-ba63-cf80464dd66a.png)
+
 
 # Show off 😇
 
