@@ -47,21 +47,82 @@
   
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seifrajhi)
 
-### 🧰 DevOps Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="105" height="105"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="80" height="80"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="90" height="90"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="90" height="90"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="90" height="90"/> 
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="90" height="90"/>
-<img src="https://camo.githubusercontent.com/d13e208052a3e9d83243cd804635e60e4a238c43a86ce1bc6aea249c39c67709/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d617232312e737667" alt="terraform" width="110" height="110"/>  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
-</p>
+### 🧰  Tech Stack 🛠
 
-### 👩‍💻 Languages
+#### Cloud Providers
+ 
+ <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+ </p>
+ 
+ #### Containerization and Orchestration
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+ </p>
+ 
+ 
+  #### Service Mesh
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/linkerdio/linkerdio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"></code>
+ </p>
+ 
+ 
+ #### HashiCorp Stack 
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
+ </p>
+ 
+ #### GitOps 
+ 
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg"></code>
+ </p>
+ 
+  #### Monitoring 
+   
+  <p float="left">
+   <code><img width="15%" height="75" src="https://github.com/cncf/artwork/blob/master/projects/thanos/horizontal/color/thanos-horizontal-color.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+ </p>
+ 
+ #### Package Managers 
+ 
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
+ </p>
+ 
+#### CI/CD
+
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://github.com/cncf/landscape/blob/master/hosted_logos/spinnaker.svg"></code>
+ </p>
+ 
+ #### Configuration Management 
+ 
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+ </p>
+
+
+
+
+### 👩‍💻Programming Languages
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="90" height="90"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="90" height="90"/>
