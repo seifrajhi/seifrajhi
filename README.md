@@ -27,15 +27,19 @@
 
 📫 Reach out on:
 
-  - Twitter : https://twitter.com/RajhiSaifeddine
+  - 🐦 Twitter : https://twitter.com/RajhiSaifeddine
   
-  - Linkedin : https://www.linkedin.com/in/rajhi-saif/
+  - 📘 Linkedin : https://www.linkedin.com/in/rajhi-saif/
   
-  - Reddit : https://www.reddit.com/user/Financial-Aspect-143/
+  - 🔖Reddit : https://www.reddit.com/user/Financial-Aspect-143/
   
-  - Medium: https://medium.com/@seifeddinerajhi
+  - 📑 Medium: https://medium.com/@seifeddinerajhi
   
-  - OSS insight: https://ossinsight.io/analyze/seifrajhi
+  - 📌 OSS insight: https://ossinsight.io/analyze/seifrajhi
+
+  -  🥇 Credly: https://www.credly.com/users/saifeddine_rajhi/badges
+
+
 
 
 ![image](https://user-images.githubusercontent.com/26981510/222764134-ca7c4c44-2f57-4dfe-ba63-cf80464dd66a.png)
