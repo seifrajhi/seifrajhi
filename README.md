@@ -39,6 +39,8 @@
 
   -  🥇 Credly: https://www.credly.com/users/saifeddine_rajhi/badges
 
+  -  🔗 Substack: https://substack.com/@rajhisaif
+
 
 
 
