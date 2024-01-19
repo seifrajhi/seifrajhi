@@ -133,7 +133,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="90" height="90"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="90" height="90"/> 
-<img src="https://camo.githubusercontent.com/aee47673482ae9337b1a495f7e747d35e55f4a3081e5cd65768e65686f6f2de4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e706f6c6963796167656e742f6f70656e706f6c6963796167656e742d617232312e737667" alt="opa" width="100" height="100"/> 
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="100" height="100"/> 
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifrajhi&theme=github_dark)
