@@ -10,6 +10,8 @@
 
 
 
+💡 (Ab)using technology for fun & profit. Programming, coding & Entrepreneurship
+
 👨‍💻 I'm working as Sr.SRE Engineer at JET.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
