@@ -35,15 +35,19 @@
   
   - 📘 Linkedin : https://www.linkedin.com/in/rajhi-saif/
   
-  - 🔖Reddit : https://www.reddit.com/user/Financial-Aspect-143/
+  - 🔖 Reddit : https://www.reddit.com/user/Financial-Aspect-143/
   
   - 📑 Medium: https://medium.com/@seifeddinerajhi
   
   - 📌 OSS insight: https://ossinsight.io/analyze/seifrajhi
 
-  -  🥇 Credly: https://www.credly.com/users/saifeddine_rajhi/badges
+  - 🥇 Credly: https://www.credly.com/users/saifeddine_rajhi/badges
 
-  -  🔗 Substack: https://substack.com/@rajhisaif
+  - 🔗 Substack: https://substack.com/@rajhisaif
+
+  - 📚 GoodReads: https://www.goodreads.com/author/show/3259246.Mauricio_Salatino
+
+  - 📈 CNCF DevStats score: https://devstats.cluster.fun/?user=seifrajhi
 
 
 
