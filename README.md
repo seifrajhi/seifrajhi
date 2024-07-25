@@ -8,6 +8,10 @@
 
 <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="300">
 
+Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy buzzwords
+
+
+> Note: buzzwords subject to change to avoid [FOMO](https://www.youtube.com/watch?v=VrC_MSG9zSU)
 
 
 💡 (Ab)using technology for fun & profit. Programming, coding & Entrepreneurship
