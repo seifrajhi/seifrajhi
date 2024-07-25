@@ -16,7 +16,7 @@ Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy bu
 
 💡 (Ab)using technology for fun & profit. Programming, coding & Entrepreneurship
 
-👨‍💻 I'm working as Sr.SRE Engineer at JET.
+👨‍💻 I'm working as Sr.Platform engineer at Rabobank.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects.
 
