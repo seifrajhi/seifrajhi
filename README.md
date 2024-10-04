@@ -49,7 +49,7 @@ Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy bu
 
   - 🔗 Substack: https://substack.com/@rajhisaif
 
-  - 📚 GoodReads: https://www.goodreads.com/author/show/3259246.Mauricio_Salatino
+  - 📚 GoodReads: https://www.goodreads.com/user/show/176103378-saifeddine
 
   - 📈 CNCF DevStats score: https://devstats.cluster.fun/?user=seifrajhi
 
