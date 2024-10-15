@@ -3,10 +3,18 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://komarev.com/ghpvc/?username=seifrajhi&color=green)
 
+
+
+
 #### Minion at Work!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="30">
 
 
 <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="300">
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Platform+Engineer+📊;Container+Nerd+🧠+🐳;Site+Reliability+Engineer+SRE+🚀&color=D74D00?font=Anton&center=true&vCenter=true)](https://git.io/typing-svg)
+
 
 Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy buzzwords
 
