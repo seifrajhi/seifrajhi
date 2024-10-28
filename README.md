@@ -43,11 +43,15 @@ Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy bu
 
 📫 Reach out on:
 
-  - 🐦 Twitter : https://twitter.com/RajhiSaifeddine
+  - 🐦 X/Twitter: https://twitter.com/RajhiSaifeddine
   
-  - 📘 Linkedin : https://www.linkedin.com/in/rajhi-saif/
+  - 📘 Linkedin: https://www.linkedin.com/in/rajhi-saif/
+
+  - 🔗 My Blog post site: https://seifrajhi.github.io/
   
-  - 🔖 Reddit : https://www.reddit.com/user/Financial-Aspect-143/
+  - 🦋 Bluesky: https://bsky.app/profile/saifrajhi.bsky.social
+
+  - 🔖 Reddit: https://www.reddit.com/user/Financial-Aspect-143/
   
   - 📑 Medium: https://medium.com/@seifeddinerajhi
   
@@ -60,7 +64,6 @@ Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy bu
   - 📚 GoodReads: https://www.goodreads.com/user/show/176103378-saifeddine
 
   - 📈 CNCF DevStats score: https://devstats.cluster.fun/?user=seifrajhi
-
 
 
 ---
