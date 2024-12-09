@@ -30,6 +30,8 @@ Terraform, Kubernetes, AWS cloud, serverless, containers and many more catchy bu
 
 👨‍ I build and break stuff, preferably in the cloud. 
 
+🏗️ I build future legacy infrastructure
+
 👯 I’m looking to collaborate with other developers in community
 
 💬 Ask me about: Container, kubernetes, security, supply chain
